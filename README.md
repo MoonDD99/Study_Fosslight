@@ -1,5 +1,8 @@
 # Fosslight 공부한 기록 정리하는 Repository
 
+##Notion Link
+https://ripe-droplet-e68.notion.site/Fosslight-a9f7d132be8c47cdb968e5e9481394bf
+
 # Fosslight 공부
 
 - api
