@@ -63,7 +63,7 @@
     
     ![ProjectController1](Untitled.png)
     
-    ![ProjectController2](Untitled 1.png)
+    ![ProjectController2](https://user-images.githubusercontent.com/57447658/161894797-98f16fae-6fbd-4379-9671-07a13e5298aa.png)
     
     ![ProjectController3](Untitled 2.png)
     
